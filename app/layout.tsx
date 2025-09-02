@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   title: "Globexlink — Trust‑Driven Cross‑Border B2B Trade",
   description:
     "Globexlink is a specialized pan‑continental B2B trade platform connecting Africa, Turkey, and Asia through secure, transparent commerce. We simplify cross‑border trade for SMEs with technology, cultural intelligence, and trusted partnerships.",
-  generator: "v0.app",
+  generator: "nasir",
 }
 
 export default function RootLayout({
